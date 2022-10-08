@@ -1,5 +1,5 @@
 # Crud App with Json db
-### Technologies:
+### Technology:
 ReactJS
 ### for backend run: npm run json-server 
 ### for frontend run : npm start
